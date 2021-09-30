@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import '@progress/kendo-theme-material/dist/all.css'
 
 function App() {
   return (
