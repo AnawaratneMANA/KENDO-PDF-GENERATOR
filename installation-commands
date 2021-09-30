@@ -1,0 +1,4 @@
+npm install --save @progress/kendo-react-pdf @progress/kendo-drawing @progress/kendo-licensing
+npm install --save @progress/kendo-react-buttons @progress/kendo-licensing
+npm install --save @progress/kendo-theme-default
+npm install --save @progress/kendo-theme-material
