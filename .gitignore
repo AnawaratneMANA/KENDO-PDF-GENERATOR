@@ -5,6 +5,7 @@
 /.pnp
 .pnp.js
 kendo-ui-license.txt
+.idea
 
 # testing
 /coverage
